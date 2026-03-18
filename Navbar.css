@@ -1,0 +1,40 @@
+
+.navbar{
+
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:15px 40px;
+background:white;
+border-bottom:1px solid #eee;
+
+}
+
+.logo{
+
+font-size:22px;
+font-weight:bold;
+color:#ff3f6c;
+
+}
+
+.menu a{
+
+margin:0 15px;
+font-weight:500;
+color:#282c3f;
+
+}
+
+.search input{
+
+padding:8px;
+width:250px;
+
+}
+
+.icons a{
+
+margin-left:15px;
+
+}
